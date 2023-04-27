@@ -1,0 +1,12 @@
+{
+    "id": "1",
+    "name": "sample_digital_asset",
+    "description": "This is a sample digit asset.",
+    "assetName": "testasset",
+    "topics": [
+        "test1",
+        "test2",
+        "ens-machinelearning"
+    ],
+    "associations": "test"
+}
